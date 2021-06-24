@@ -24,7 +24,7 @@ title = "Viktor Ermolov · Landing Page"
   # email does still work but is deprecated.
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
-  description = "Landing Page"
+  description = "Freelance Software Developer"
   bio = "Freelance Software Developer.  \nPython | Django | Flask | FastAPI | JavaScript | SQL | NoSQL | HTML | CSS | RESTful API | Docker | CI/CD | GIT"
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
