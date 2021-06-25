@@ -25,7 +25,7 @@ title = "Viktor Ermolov · Landing Page"
   # use [params.contact.email] instead.
   #email = "john.doe@example.com"
   description = "Freelance Software Developer"
-  bio = "Freelance Software Developer.  \nPython | Django | Flask | FastAPI | JavaScript | SQL | NoSQL | HTML | CSS | RESTful API | Docker | CI/CD | GIT"
+  bio = "**Freelance Software Developer**\n  \nPython | Django | Flask | FastAPI | JavaScript | SQL | NoSQL | HTML | CSS | RESTful API | Docker | CI/CD | GIT"
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
